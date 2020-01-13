@@ -16,3 +16,7 @@ _Day 1 through Day --_
 __January 9 - Day 1__
 
 We began the project early. Because of this, we deviated slightly from the schedule by planning out the size (and ground floor shape) of the house.
+
+__January 10 - Day 2__
+
+We mostly finished the floor plan and decided against including a camera. We also began to mass the necessary components.
