@@ -20,3 +20,7 @@ We began the project early. Because of this, we deviated slightly from the sched
 __January 10 - Day 2__
 
 We mostly finished the floor plan and decided against including a camera. We also began to mass the necessary components.
+
+__January 13 - Day 3__
+
+We finished the ground floor and began to work on the top floor.
