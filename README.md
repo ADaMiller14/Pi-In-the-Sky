@@ -28,3 +28,7 @@ We finished the ground floor and began to work on the top floor.
 __January 14 - Day 4__
 
 We began to create the actual building (walls, etc.).
+
+__January 16 - Day 5__
+
+We finished the ground floor and began the second floor.
