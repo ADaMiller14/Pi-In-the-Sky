@@ -32,3 +32,7 @@ We began to create the actual building (walls, etc.).
 __January 16 - Day 5__
 
 We finished the ground floor and began the second floor.
+
+__January 17 - Day 6__
+
+We had a half day, so we weren't able to make much progress on the project.
