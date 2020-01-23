@@ -36,3 +36,7 @@ We finished the ground floor and began the second floor.
 __January 17 - Day 6__
 
 We had a half day, so we weren't able to make much progress on the project.
+
+__January 22 - Day 7__
+
+We finished the second floor and chimney, and began making the roof.
