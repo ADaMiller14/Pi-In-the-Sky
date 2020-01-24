@@ -40,3 +40,7 @@ We had a half day, so we weren't able to make much progress on the project.
 __January 22 - Day 7__
 
 We finished the second floor and chimney, and began making the roof.
+
+__January 23 - Day 8__
+
+We continued making the roof and began working on the walls for the second story.
