@@ -44,3 +44,7 @@ We finished the second floor and chimney, and began making the roof.
 __January 23 - Day 8__
 
 We continued making the roof and began working on the walls for the second story.
+
+__January 24 - Day 9__
+
+We made half of the roof and are a mere five or so parts away from completion of the house.
