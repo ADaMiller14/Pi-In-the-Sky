@@ -48,3 +48,7 @@ We continued making the roof and began working on the walls for the second story
 __January 24 - Day 9__
 
 We made half of the roof and are a mere five or so parts away from completion of the house.
+
+__January 27 - Day 10__
+
+We finished creating the acual architecture of the house, and have moved on to the code.
