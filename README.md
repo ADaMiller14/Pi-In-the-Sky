@@ -52,3 +52,7 @@ We made half of the roof and are a mere five or so parts away from completion of
 __January 27 - Day 10__
 
 We finished creating the acual architecture of the house, and have moved on to the code.
+
+__January 28 - Day 11__
+
+We figured out how to control a servo with the Pi, and we began to take the steps necessary to save inputs (the accelerometer data) to a .txt file.
