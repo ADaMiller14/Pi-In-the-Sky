@@ -56,3 +56,11 @@ We finished creating the acual architecture of the house, and have moved on to t
 __January 28 - Day 11__
 
 We figured out how to control a servo with the Pi, and we began to take the steps necessary to save inputs (the accelerometer data) to a .txt file.
+
+__January 30 - Day 12__
+
+Aidan discovered how to read and write a .txt file, as well as how to save it. He began making test code that would simply write accelerometer data to a .txt file.
+
+__January 31 - Day 13__
+
+Aidan was absent due to All-District Band. Cade did WHAT? .
