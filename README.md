@@ -11,7 +11,7 @@ NEEDS CONTENT
 NEEDS CONTENT
 ## The Schedule
 ### January
-_Day 1 through Day --_
+_Day 1 through Day 12_
 
 __January 9 - Day 1__
 
@@ -61,6 +61,9 @@ __January 30 - Day 12__
 
 Aidan discovered how to read and write a .txt file, as well as how to save it. He began making test code that would simply write accelerometer data to a .txt file.
 
-__January 31 - Day 13__
+### Febuary
+_Day 13 through Day --_
 
-Aidan was absent due to All-District Band. Cade did WHAT? .
+__Febuary 3 - Day 13__
+
+Aidan almost finished the test .txt writer.
