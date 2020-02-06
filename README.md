@@ -67,3 +67,7 @@ _Day 13 through Day --_
 __Febuary 3 - Day 13__
 
 Aidan almost finished the test .txt writer.
+
+__Febuary 4 - Day 4__
+
+We finished the writer, and began to learn how to use the altimeter.
