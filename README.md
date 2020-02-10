@@ -75,3 +75,7 @@ We finished the writer, and began to learn how to use the altimeter.
 __Febuary 6 - Day 15__
 
 We transcribed altimeter code we found on the internet and discovered that we need a special library.
+
+__Febuary 7 - Day 16__
+
+We completed the altimeter code and got it in working order. We have a few goals for the rest of the code: decide the autosave interval; decide the altitude when the project descends; set the altitude to zero on startup; and record the altitude, accelerometer data, and time to a .txt file.
