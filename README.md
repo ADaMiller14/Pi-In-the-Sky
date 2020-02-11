@@ -79,3 +79,7 @@ We transcribed altimeter code we found on the internet and discovered that we ne
 __Febuary 7 - Day 16__
 
 We completed the altimeter code and got it in working order. We have a few goals for the rest of the code: decide the autosave interval; decide the altitude when the project descends; set the altitude to zero on startup; and record the altitude, accelerometer data, and time to a .txt file.
+
+__Febuary 10 - Day 17__
+
+We did all the aformentioned tasks. Great! The one thing we didn't do was connect the servo to the system so that it moves at a specified altitude.
