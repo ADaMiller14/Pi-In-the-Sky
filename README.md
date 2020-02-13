@@ -83,3 +83,7 @@ We completed the altimeter code and got it in working order. We have a few goals
 __Febuary 10 - Day 17__
 
 We did all the aformentioned tasks. Great! The one thing we didn't do was connect the servo to the system so that it moves at a specified altitude.
+
+__Febuary 11 - Day 18__
+
+We connected the servo and finished the code! We also commented it and re-arranged the wiring to save space and about 50g.
