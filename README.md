@@ -87,3 +87,7 @@ We did all the aformentioned tasks. Great! The one thing we didn't do was connec
 __Febuary 11 - Day 18__
 
 We connected the servo and finished the code! We also commented it and re-arranged the wiring to save space and about 50g.
+
+__Febuary 13 - Day 19__
+
+We spent the day debugging the code, because when the code is finished, it is never actually finished.
