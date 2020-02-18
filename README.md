@@ -8,7 +8,21 @@ Everyone needs some equations to define various bits 'n pieces. Here are ours:
 ## The Build
 NEEDS CONTENT
 ## The Stuff Inside
-NEEDS CONTENT
+The house's contents are:
+* One (1) Raspberry Pi Zero
+* One (1) Adafruit T-Cobbler Plus for Rasberry Pi
+* One (1) MPL3115A2 Plus altimeter
+* One (1) LSM303DLHC accelerometer
+* One (1) Tower Pro SG92R Micro servo
+* One (1) 400 Tie Point Solderless Breadboard
+* One (1) PowerBost 500 Charger
+* One (1) 3.7v lithium ion battery
+* One (1) USB OTG MicroB cable
+* One (1) MicroSD card
+* ~Fifty centimetres (50cm) wire
+
+![The wiring. The cyan rectangles represent the altimeter and accelerometer.](/Fritzing-Pic.PNG)
+
 ## The Schedule
 ### January
 _Day 1 through Day 12_
@@ -95,6 +109,3 @@ We spent the day debugging the code, because when the code is finished, it is ne
 __Febuary 14 - Day 20__
 
 Aidan worked on the Fritzing diagram, and Cade continued debugging.
-
-
-![Our Fritzing](/Fritzing-Pic.PNG)
