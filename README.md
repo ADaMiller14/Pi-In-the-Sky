@@ -91,3 +91,7 @@ We connected the servo and finished the code! We also commented it and re-arrang
 __Febuary 13 - Day 19__
 
 We spent the day debugging the code, because when the code is finished, it is never actually finished.
+
+__Febuary 14 - Day 20__
+
+Aidan worked on the Fritzing diagram, and Cade continued debugging.
