@@ -23,6 +23,10 @@ The house's contents are:
 
 ![](/Fritzing-Pic.PNG)
 The wiring. The cyan rectangles represent the altimeter and accelerometer.
+
+## The Code
+link to code?
+
 ## The Schedule
 ### January
 _Day 1 through Day 12_
