@@ -21,8 +21,8 @@ The house's contents are:
 * One (1) MicroSD card
 * ~Fifty centimetres (50cm) wire
 
-![The wiring. The cyan rectangles represent the altimeter and accelerometer.](/Fritzing-Pic.PNG)
-
+![](/Fritzing-Pic.PNG)
+The wiring. The cyan rectangles represent the altimeter and accelerometer.
 ## The Schedule
 ### January
 _Day 1 through Day 12_
