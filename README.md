@@ -97,4 +97,4 @@ __Febuary 14 - Day 20__
 Aidan worked on the Fritzing diagram, and Cade continued debugging.
 
 
-![Our Fritzing](Fritzing-Pic.png)
+![Our Fritzing](/Fritzing-Pic.png)
