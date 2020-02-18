@@ -95,3 +95,6 @@ We spent the day debugging the code, because when the code is finished, it is ne
 __Febuary 14 - Day 20__
 
 Aidan worked on the Fritzing diagram, and Cade continued debugging.
+
+
+![Our Fritzing](\Share File\Engineering 4\Aidan and Cade\Fritzing-Pic.png)
