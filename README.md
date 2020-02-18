@@ -21,7 +21,7 @@ The house's contents are:
 * ~Fifty centimetres (50cm) wire
 
 ![](/Fritzing-Pic.PNG)
-The wiring. The cyan rectangles represent the altimeter and accelerometer.
+The wiring is picured above. The cyan rectangles represent the altimeter and accelerometer.
 
 ## The Code
 link to code?
