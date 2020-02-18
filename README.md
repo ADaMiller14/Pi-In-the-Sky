@@ -10,7 +10,6 @@ NEEDS CONTENT
 ## The Stuff Inside
 The house's contents are:
 * One (1) Raspberry Pi Zero
-* One (1) Adafruit T-Cobbler Plus for Rasberry Pi
 * One (1) MPL3115A2 Plus altimeter
 * One (1) LSM303DLHC accelerometer
 * One (1) Tower Pro SG92R Micro servo
