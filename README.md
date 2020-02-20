@@ -115,4 +115,4 @@ Aidan worked on the Fritzing diagram, and Cade continued debugging.
 
 __Febuary 18 - Day 21__
 
-Aidan finished and uploaded the Fritzing while Cade almost inished the debugging.
+Aidan finished and uploaded the Fritzing while Cade almost finished the debugging.
