@@ -20,7 +20,7 @@ The house's contents are:
 * One (1) MicroSD card
 * ~Fifty centimetres (50cm) wire
 
-![](/Fritzing-Pic.PNG)
+![text](/Fritzing-Pic.PNG)
 The wiring is picured above. The cyan rectangles represent the altimeter and accelerometer.
 
 ## The Code
