@@ -24,10 +24,7 @@ The house's contents are:
 The wiring is picured above. The cyan rectangles represent the altimeter and accelerometer.
 
 ## The Code
-<details>
-<summary>Code</summary>
-<br>
-    <pre>
+```python
 # Aidan & Cade's UP house code
 
 # Variables to define
@@ -165,8 +162,7 @@ while True:
         if elapsed % int(autosave) == 0:
             f.close() #                               Closes (saves) document
             f = open(str(txt),'r+') # Re-opens document
-</pre>
-</details>
+```
 
 ## The Schedule
 ### January
