@@ -168,6 +168,7 @@ while True:
             f = open(str(txt),'r+') # Re-opens document
 ```
 </details>
+
 ## The Schedule
 ### January
 _Day 1 through Day 12_
@@ -262,3 +263,7 @@ Aidan finished and uploaded the Fritzing while Cade almost finished the debuggin
 __Febuary 20 - Day 22__
 
 Aidan encountered issuses with getting the Fritzing to display, while Cade finished debugging the code (hopefully).
+
+__Febuary 21 - Day 23__
+
+Dr. Shields helped us fix all of our issues and we pushed the final code here, to GitHub.
