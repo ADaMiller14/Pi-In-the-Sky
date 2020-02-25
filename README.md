@@ -267,3 +267,7 @@ Aidan encountered issuses with getting the Fritzing to display, while Cade finis
 __Febuary 21 - Day 23__
 
 Dr. Shields helped us fix all of our issues and we pushed the final code here, to GitHub.
+
+__Febuary 24 - Day 24__
+
+We practiced using the miter saw to cut cardboard at an angle.
