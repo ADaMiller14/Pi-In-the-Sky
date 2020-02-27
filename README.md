@@ -271,3 +271,7 @@ Dr. Shields helped us fix all of our issues and we pushed the final code here, t
 __Febuary 24 - Day 24__
 
 We practiced using the miter saw to cut cardboard at an angle.
+
+__Febuary 26 - Day 25__
+
+We cut and assembled the chimmney. Aidan began converting the Solidworks model to use materials in order to determine the center of mass.
