@@ -222,7 +222,7 @@ __January 30 - Day 12__
 Aidan discovered how to read and write a .txt file, as well as how to save it. He began making test code that would simply write accelerometer data to a .txt file.
 
 ### Febuary
-_Day 13 through Day --_
+_Day 13 through Day 27_
 
 __Febuary 3 - Day 13__
 
@@ -275,3 +275,15 @@ We practiced using the miter saw to cut cardboard at an angle.
 __Febuary 26 - Day 25__
 
 We cut and assembled the chimmney. Aidan began converting the Solidworks model to use materials in order to determine the center of mass.
+
+__Febuary 27 - Day 26__
+
+We finished editing the materials and began the final detail work on the house.
+
+__Febuary 28 - Day 27__
+
+Cade worked on creating the holder for the razorblade that will be used to release some balloons.
+
+### March
+_Day 28 through Day --_
+
