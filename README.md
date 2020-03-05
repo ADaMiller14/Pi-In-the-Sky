@@ -287,3 +287,6 @@ Cade worked on creating the holder for the razorblade that will be used to relea
 ### March
 _Day 28 through Day --_
 
+__March 4 - Day 28__
+
+We finished working on the internal supports for the house.
