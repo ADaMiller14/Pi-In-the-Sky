@@ -290,3 +290,7 @@ _Day 28 through Day --_
 __March 4 - Day 28__
 
 We finished working on the internal supports for the house.
+
+__March 5 - Day 29__
+
+We refined our design for a "razor safety biscuit".
