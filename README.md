@@ -294,3 +294,7 @@ We finished working on the internal supports for the house.
 __March 5 - Day 29__
 
 We refined our design for a "razor safety biscuit".
+
+__March 6 - Day 30__
+
+We finished the biscuit and set up the pi to run the code on boot.
