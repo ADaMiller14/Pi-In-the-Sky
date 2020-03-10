@@ -298,3 +298,7 @@ We refined our design for a "razor safety biscuit".
 __March 6 - Day 30__
 
 We finished the biscuit and set up the pi to run the code on boot.
+
+__March 9 - Day 31__
+
+We figured out how to install the pi (hang it from the second floor) and began to make the final arrangement of the other components inside the house.
