@@ -302,3 +302,7 @@ We finished the biscuit and set up the pi to run the code on boot.
 __March 9 - Day 31__
 
 We figured out how to install the pi (hang it from the second floor) and began to make the final arrangement of the other components inside the house.
+
+__March 10 - Day 32__
+
+Aidan began working on the PCB circuit, and Cade continued arranging (and creating fastenings for) the components.
