@@ -297,12 +297,16 @@ We refined our design for a "razor safety biscuit".
 
 __March 6 - Day 30__
 
-We finished the biscuit and set up the pi to run the code on boot.
+We finished the biscuit and set up the Pi to run the code on boot.
 
 __March 9 - Day 31__
 
-We figured out how to install the pi (hang it from the second floor) and began to make the final arrangement of the other components inside the house.
+We figured out how to install the Pi (hang it from the second floor) and began to make the final arrangement of the other components inside the house.
 
 __March 10 - Day 32__
 
 Aidan began working on the PCB circuit, and Cade continued arranging (and creating fastenings for) the components.
+
+__March 12 - Day 33__
+
+Aidan waited in line to cut out the PCB, and Cade almost finished the aranging. The arranging now depends on the position of the PCB relative to the Pi.
